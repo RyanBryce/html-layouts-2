@@ -1,0 +1,32 @@
+body{
+  box-sizing: border-box;
+  width: 100%;
+
+}
+header{
+  background-color: grey;
+  height:75px;
+}
+h1{
+margin-top: 0;
+}
+.padding-Top-Bottom{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.floatL{
+  float: left;
+  color: white;
+  padding: 30px;
+}
+.grey-box{
+  width: auto;
+  height: 200px;
+  background-color: grey;
+}
+
+footer{
+  height: 100px;
+  width: 100%;
+  background-color: grey;
+}

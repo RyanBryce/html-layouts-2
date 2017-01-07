@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+}
+
+h2 {
+    margin: 15px;
+}
+
+.topFlex {
+    width: 100%;
+    display: flex;
+}
+.tBox1{
+  background-color: red;
+}
+.tBox2{
+  background-color: lightblue;
+}
+.tBox3{
+  background-color: grey;
+}
+.topFlexM{
+  margin-top: 30px;
+}
+
+.boxT {
+    flex: 1;
+    height: 150px;
+    margin: 15px;
+    text-align: left;
+}
+
+.box1 {
+    flex: 1;
+    background-color:red;
+    height: 350px;
+    margin-left: 15px;
+}
+
+.box2 {
+    flex: 2;
+    background-color: blue;
+    height: 350px;
+    margin-right: 15px;
+}
+
+.box3 {
+    flex: 10;
+    height: 200px;
+    background-color: lightblue;
+    margin-left: 15px;
+}
+
+.box4 {
+    flex: 1;
+    height: 200px;
+    background-color: red;
+}
+
+.box5 {
+    flex: 2;
+    height: 200px;
+    background-color: grey;
+}
+
+.box6 {
+    flex: 1;
+    height: 200px;
+    background-color: red;
+    margin-right: 15px;
+}

@@ -1,48 +1,41 @@
 * {
-    box-sizing: border-box;
-    font-family: serif;
-    ;
+  box-sizing: border-box;
+  font-family: serif;
 }
 
-body {
-    margin: 0;
+body{
+  margin: 0;
 }
-
-main {
-    background-color: lightgrey;
-    height: 100%;
-    display: inline-block;
-    width: 100%;
-    padding: 60px;
+main{
+  background-color: lightgrey;
+  height:100%;
+  display: inline-block;
+  width: 100%;
+  padding: 60px;
 }
-
-.top-section {
-    width: auto;
-    height: 220px;
-    background-color: white;
-    margin-bottom: 60px;
+.top-section{
+  width: auto;
+  height: 220px;
+  background-color: white;
+  margin-bottom:60px;
 }
-
-.bottom-section {
-    width: auto;
-    height: 600px;
-    background-color: white;
-    padding: 60px;
+.bottom-section{
+  width: auto;
+  height: 600px;
+  background-color: white;
+  padding: 60px;
 }
-
-p {
-    text-align: left;
-    padding: 30px;
+p{
+  text-align: left;
+  padding: 30px;
 }
-
-h2 {
-    text-align: center;
-    padding-top: 150;
-    color: white;
-    padding-top: 150px;
-    ;
+h2{
+  text-align: center;
+  padding-top: 150;
+  color: white;
+  padding-top: 150px
+  ;
 }
-
 .button1 {
     background-color: red;
     border: none;
@@ -51,8 +44,8 @@ h2 {
     font-size: 22px;
     margin-left: 30px;
     padding: 15px;
-}
 
+}
 .button2 {
     background-color: blue;
     border: none;
@@ -62,21 +55,18 @@ h2 {
     padding: 15px;
     margin-left: 10px;
 }
-
-.img-box {
-    height: 300px;
-    margin: 30px;
-    background-color: grey;
+.img-box{
+  height: 300px;
+  margin: 30px;
+  background-color: grey;
 }
-
-footer {
-    height: 75px;
-    width: 100%;
-    background-color: grey;
+footer{
+  height: 75px;
+  width: 100%;
+  background-color: grey;
 }
-
-.footer-Right {
-    float: right;
-    color: white;
-    margin: 30px;
+.footer-Right{
+  float: right;
+  color: white;
+  margin: 30px;
 }
